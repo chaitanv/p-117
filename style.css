@@ -1,0 +1,19 @@
+body {
+    background-color: darksalmon;
+}
+#score {
+    font-size: large;
+    margin-left: 15px;
+    float: left;
+}
+#Timer {
+    font-size: large;
+    margin-right: 15px;
+    float: right;   
+}
+#p3 {
+    color: darkblue;
+}
+#show_sketch {
+    float: right;
+}
